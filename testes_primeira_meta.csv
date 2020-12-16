@@ -1,0 +1,136 @@
+sclaer selection reduction classification roc_auc accuracy
+"min max"   lda 0.864 0.846
+"min max"   "nearest centroid"  0.772
+"min max"   "random forest" 0.868 0.849
+"min max" "f classif"  lda 0.865 0.846
+"min max" "f classif"  "nearest centroid"  0.772
+"min max" "f classif"  "random forest" 0.862 0.848
+"min max" "f classif" pca lda 0.842 0.833
+"min max" "f classif" pca "nearest centroid"  0.771
+"min max" "f classif" pca "random forest" 0.820 0.826
+"min max" "f classif" lda lda 0.867 0.847
+"min max" "f classif" lda "nearest centroid"  0.809
+"min max" "f classif" lda "random forest" 0.787 0.781
+"min max" "chi squered"  lda 0.860 0.843
+"min max" "chi squered"  "nearest centroid"  0.772
+"min max" "chi squered"  "random forest" 0.863 0.846
+"min max" "chi squered" pca lda 0.832 0.830
+"min max" "chi squered" pca "nearest centroid"  0.770
+"min max" "chi squered" pca "random forest" 0.823 0.824
+"min max" "chi squered" lda lda 0.862 0.844
+"min max" "chi squered" lda "nearest centroid"  0.798
+"min max" "chi squered" lda "random forest" 0.780 0.775
+"min max" kruskal  lda 0.861 0.845
+"min max" kruskal  "nearest centroid"  0.739
+"min max" kruskal  "random forest" 0.857 0.845
+"min max" kruskal pca lda 0.841 0.835
+"min max" kruskal pca "nearest centroid"  0.736
+"min max" kruskal pca "random forest" 0.825 0.830
+"min max" kruskal lda lda 0.864 0.846
+"min max" kruskal lda "nearest centroid"  0.803
+"min max" kruskal lda "random forest" 0.781 0.777
+"min max" "person correlation"  lda 0.850 0.841
+"min max" "person correlation"  "nearest centroid"  0.767
+"min max" "person correlation"  "random forest" 0.837 0.838
+"min max" "person correlation" pca lda 0.847 0.840
+"min max" "person correlation" pca "nearest centroid"  0.767
+"min max" "person correlation" pca "random forest" 0.822 0.829
+"min max" "person correlation" lda lda 0.852 0.842
+"min max" "person correlation" lda "nearest centroid"  0.784
+"min max" "person correlation" lda "random forest" 0.768 0.769
+"min max"  pca lda 0.818 0.824
+"min max"  pca "nearest centroid"  0.769
+"min max"  pca "random forest" 0.823 0.827
+"min max"  lda lda 0.867 0.847
+"min max"  lda "nearest centroid"  0.810
+"min max"  lda "random forest" 0.785 0.778
+standart   lda 0.864 0.846
+standart   "nearest centroid"  0.776
+standart   "random forest" 0.867 0.849
+standart "f classif"  lda 0.865 0.846
+standart "f classif"  "nearest centroid"  0.777
+standart "f classif"  "random forest" 0.861 0.848
+standart "f classif" pca lda 0.830 0.826
+standart "f classif" pca "nearest centroid"  0.772
+standart "f classif" pca "random forest" 0.828 0.829
+standart "f classif" lda lda 0.867 0.847
+standart "f classif" lda "nearest centroid"  0.809
+standart "f classif" lda "random forest" 0.787 0.781
+standart "chi squered"  lda  
+standart "chi squered"  "nearest centroid"  
+standart "chi squered"  "random forest"  
+standart "chi squered" pca lda  
+standart "chi squered" pca "nearest centroid"  
+standart "chi squered" pca "random forest"  
+standart "chi squered" lda lda  
+standart "chi squered" lda "nearest centroid"  
+standart "chi squered" lda "random forest"  
+standart kruskal  lda 0.833 0.827
+standart kruskal  "nearest centroid"  0.733
+standart kruskal  "random forest" 0.828 0.828
+standart kruskal pca lda 0.764 0.800
+standart kruskal pca "nearest centroid"  0.723
+standart kruskal pca "random forest" 0.775 0.795
+standart kruskal lda lda 0.835 0.828
+standart kruskal lda "nearest centroid"  0.784
+standart kruskal lda "random forest" 0.745 0.755
+standart "person correlation"  lda 0.850 0.841
+standart "person correlation"  "nearest centroid"  0.783
+standart "person correlation"  "random forest" 0.768 0.769
+standart "person correlation" pca lda 0.842 0.834
+standart "person correlation" pca "nearest centroid"  0.782
+standart "person correlation" pca "random forest" 0.833 0.834
+standart "person correlation" lda lda 0.852 0.842
+standart "person correlation" lda "nearest centroid"  0.784
+standart "person correlation" lda "random forest" 0.768 0.769
+standart  pca lda 0.834 0.828
+standart  pca "nearest centroid"  0.772
+standart  pca "random forest" 0.840 0.832
+standart  lda lda 0.867 0.847
+standart  lda "nearest centroid"  0.810
+standart  lda "random forest" 0.796 0.778
+   lda 0.864 0.846
+   "nearest centroid"  0.744
+   "random forest" 0.868 0.848
+ "f classif"  lda 0.865 0.846
+ "f classif"  "nearest centroid"  0.743
+ "f classif"  "random forest" 0.861 0.847
+ "f classif" pca lda 0.849 0.840
+ "f classif" pca "nearest centroid"  0.740
+ "f classif" pca "random forest" 0.841 0.840
+ "f classif" lda lda 0.867 0.847
+ "f classif" lda "nearest centroid"  0.809
+ "f classif" lda "random forest" 0.788 0.781
+ "chi squered"  lda  
+ "chi squered"  "nearest centroid"  
+ "chi squered"  "random forest"  
+ "chi squered" pca lda  
+ "chi squered" pca "nearest centroid"  
+ "chi squered" pca "random forest"  
+ "chi squered" lda lda  
+ "chi squered" lda "nearest centroid"  
+ "chi squered" lda "random forest"  
+ kruskal  lda 0.861 0.845
+ kruskal  "nearest centroid"  0.739
+ kruskal  "random forest" 0.857 0.846
+ kruskal pca lda 0.844 0.835
+ kruskal pca "nearest centroid"  0.735
+ kruskal pca "random forest" 0.831 0.832
+ kruskal lda lda 0.864 0.846
+ kruskal lda "nearest centroid"  0.804
+ kruskal lda "random forest" 0.785 0.778
+  pca lda 0.851 0.841
+  pca "nearest centroid"  0.742
+  pca "random forest" 0.847 0.842
+  lda lda 0.867 0.847
+  lda "nearest centroid"  0.810
+  lda "random forest" 0.785 0.778
+ "person correlation"  lda  
+ "person correlation"  "nearest centroid"  
+ "person correlation"  "random forest"  
+ "person correlation" pca lda  
+ "person correlation" pca "nearest centroid"  
+ "person correlation" pca "random forest"  
+ "person correlation" lda lda  
+ "person correlation" lda "nearest centroid"  
+ "person correlation" lda "random forest"  
